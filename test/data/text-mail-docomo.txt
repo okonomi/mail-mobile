@@ -1,0 +1,9 @@
+MIME-Version: 1.0
+To: example@docomo.ne.jp
+From: from@example.com
+Subject: =?Shift-JIS?B?g2WDWINnw969+J8=?=
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset="Shift-JIS"
+
+w969+KDD3r34oMPevfigw969+KDD3r34oMPevfigw969+KDD3r34oMPevfigw969+KDD3r34oMPe
+vfigw969+KDD3r34oMPevfigw969+KDD3r34oMPevfigw969+KDD3r34oA==

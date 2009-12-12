@@ -1,0 +1,8 @@
+MIME-Version: 1.0
+To: example@ezweb.ne.jp
+From: from@example.com
+Subject: =?ISO-2022-JP?B?GyRCJUYlOSVIGyhJQ149GyhCGyRCdUEbKEI=?=
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="ISO-2022-JP"
+
+(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B(IC^=(B$BuF(B
